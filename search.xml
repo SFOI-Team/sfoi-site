@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello,world!</title>
+      <link href="/2019/03/12/hello-world/"/>
+      <url>/2019/03/12/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Just a test page.</p><figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line"> <span class="built_in">puts</span>(<span class="string">"Hello,world!"</span>);</span><br><span class="line"> <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>团队联系方式</title>
+      <link href="/2019/03/12/contact/"/>
+      <url>/2019/03/12/contact/</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>洛谷团队：<a href="https://www.luogu.org/team/show?teamid=14639" target="_blank" rel="noopener">https://www.luogu.org/team/show?teamid=14639</a></p></li><li><p>Github organization：<a href="https://github.com/SFOI-Team" target="_blank" rel="noopener">https://github.com/SFOI-Team</a></p></li><li><p>QQ群：（暂不可用）</p></li><li><p>Telegram channel：<a href="https://t.me/SFOI_Team" target="_blank" rel="noopener">https://t.me/SFOI_Team</a></p></li><li><p>Telegram Group：（暂不可用）</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
