@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hello,world!</title>
-      <link href="/2019/03/12/hello-world/"/>
-      <url>/2019/03/12/hello-world/</url>
+      <title>SFOI2019 季后赛题目征集</title>
+      <link href="/2019/05/21/sfoi2019-final-call-for-tasks/"/>
+      <url>/2019/05/21/sfoi2019-final-call-for-tasks/</url>
       
-        <content type="html"><![CDATA[<p>欢迎来到 SFOI-Team 官方网站！</p>]]></content>
+        <content type="html"><![CDATA[<p>SFOI2019 季后赛计划于 2019 年 7 月 12 日举行，现在面向大家征集题目。</p><p>下面是本次征集题目的要求和提交方式。</p><h2 id="征题要求"><a href="#征题要求" class="headerlink" title="征题要求"></a>征题要求</h2><ul><li>征集的题目应为提交人原创的题目，题目不应在以前举行的各类 OI 系列赛事和 ICPC 系列赛事中被使用过，也不应在各大在线评测平台见到相同或类似的题目。</li><li>征集的题目难度不应低于省选难度。</li><li>题目内容不得包含任何歧视性，侮辱性的文字。题目易于理解，没有歧义。</li></ul><h2 id="提交方式"><a href="#提交方式" class="headerlink" title="提交方式"></a>提交方式</h2><p>请在 2019 年 6 月 20 日前提交题目的 zip 文件。</p><p>您提交的文件应该包含如下内容：</p><ol><li>题目描述：要求为 Markdown 或 LaTeX 格式题面。</li><li>测试数据：除测试数据集外，推荐同时提供数据生成方法。</li><li>题解：除给出正解方法和标程外，请同时提供多种部分分的解法，以及相关的得分建议。</li><li>提供人的背景信息，联系方式等。</li></ol><h2 id="补充说明"><a href="#补充说明" class="headerlink" title="补充说明"></a>补充说明</h2><p>提交的题目一经采用，即视为提交人授权 SFOI Team 在比赛场合使用该题目（包括但不限于题面，数据，题解等内容）。提交的题目将可能被 SFOI 命题组作出适当修改。</p><p>所有提交的题目将会在赛后公开完整题目数据包。</p><p>所有提交的题目将在 SFOI2019 季后赛结束之前保密，公开范围将只限于 SFOI 命题组成员，未入选的题目提交者可以在其他场合继续选用。</p><p>提交人需要对提交的题目保密，并在比赛结束前不公开题目信息。</p><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>您可以通过如下方式提交题目：</p><ul><li>Email1: 594422141#qq.com</li><li>Email2: studyingfather#gmail.com</li></ul><p>（请将其中的#替换为@）</p>]]></content>
       
       
       
@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>SFOI2019 季后赛题目征集</title>
-      <link href="/2019/03/12/sfoi2019-final-call-for-tasks/"/>
-      <url>/2019/03/12/sfoi2019-final-call-for-tasks/</url>
+      <title>Hello,world!</title>
+      <link href="/2019/03/12/hello-world/"/>
+      <url>/2019/03/12/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>SFOI2019 季后赛计划于 2019 年 7 月 12 日举行，现在面向大家征集题目。</p><p>下面是本次征集题目的要求和提交方式。</p><h2 id="征题要求"><a href="#征题要求" class="headerlink" title="征题要求"></a>征题要求</h2><ul><li>征集的题目应为提交人原创的题目，题目不应在以前举行的各类 OI 系列赛事和 ICPC 系列赛事中被使用过，也不应在各大在线评测平台见到相同或类似的题目。</li><li>征集的题目难度不应低于省选难度。</li><li>题目内容不得包含任何歧视性，侮辱性的文字。题目易于理解，没有歧义。</li></ul><h2 id="提交方式"><a href="#提交方式" class="headerlink" title="提交方式"></a>提交方式</h2><p>请在 2019 年 6 月 20 日前提交题目的 zip 文件。</p><p>您提交的文件应该包含如下内容：</p><ol><li>题目描述：要求为 Markdown 或 LaTeX 格式题面。</li><li>测试数据：除测试数据集外，推荐同时提供数据生成方法。</li><li>题解：除给出正解方法和标程外，请同时提供多种部分分的解法，以及相关的得分建议。</li><li>提供人的背景信息，联系方式等。</li></ol><h2 id="补充说明"><a href="#补充说明" class="headerlink" title="补充说明"></a>补充说明</h2><p>提交的题目一经采用，即视为提交人授权 SFOI Team 在比赛场合使用该题目（包括但不限于题面，数据，题解等内容）。提交的题目将可能被 SFOI 命题组作出适当修改。</p><p>所有提交的题目将会在赛后公开完整题目数据包。</p><p>所有提交的题目将在 SFOI2019 季后赛结束之前保密，公开范围将只限于 SFOI 命题组成员，未入选的题目提交者可以在其他场合继续选用。</p><p>提交人需要对提交的题目保密，并在比赛结束前不公开题目信息。</p><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>您可以通过如下方式提交题目：</p><ul><li>Email1: 594422141#qq.com</li><li>Email2: studyingfather#gmail.com</li></ul><p>（请将其中的#替换为@）</p>]]></content>
+        <content type="html"><![CDATA[<p>欢迎来到 SFOI-Team 官方网站！</p>]]></content>
       
       
       
