@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>SFOI2019 季后赛题目征集</title>
-      <link href="/2019/05/21/sfoi2019-final-call-for-tasks/"/>
-      <url>/2019/05/21/sfoi2019-final-call-for-tasks/</url>
-      
-        <content type="html"><![CDATA[<p>SFOI2019 季后赛计划于 2019 年 7 月 12 日举行，现在面向大家征集题目。</p><p>欢迎各位向本次比赛提交优质的原创题目！</p><h2 id="提交方式"><a href="#提交方式" class="headerlink" title="提交方式"></a>提交方式</h2><p>请在 2019 年 6 月 20 日前提交题目的 zip 文件。</p><p>您提交的文件应该包含如下内容：</p><ol><li>题目描述：要求为 Markdown 或 LaTeX 格式题面。</li><li>测试数据：除测试数据集外，推荐同时提供数据生成方法。</li><li>题解：除给出正解方法和标程外，请同时提供多种部分分的解法，以及相关的得分建议。</li><li>提供人联系方式等相关信息。</li></ol><h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>您可以通过如下方式提交题目：</p><ul><li>Email1: 594422141#qq.com</li><li>Email2: studyingfather#gmail.com</li><li>QQ: 594422141</li></ul><p>（请将其中的#替换为@）</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello,world!</title>
       <link href="/2019/03/12/hello-world/"/>
       <url>/2019/03/12/hello-world/</url>
